@@ -1,13 +1,16 @@
 # depslib dependency file v1.0
-1496171976 source:c:\users\neel\codeblocks\n_body\main.cpp
+1496181081 source:c:\users\neel\codeblocks\n_body\main.cpp
 	<iostream>
+	<fstream>
 	<vector>
+	<string>
 	"particle.h"
+	"NBody.h"
 
 1496163691 c:\users\neel\codeblocks\n_body\particle.h
 	<cmath>
 
-1496171993 c:\users\neel\codeblocks\n_body\include\particle.h
+1496181754 c:\users\neel\codeblocks\n_body\include\particle.h
 	<cmath>
 
 1496164120 source:c:\users\neel\codeblocks\n_body\src\particle.cpp
@@ -17,4 +20,14 @@
 	"z.h"
 
 1496163929 c:\users\neel\codeblocks\n_body\include\z.h
+
+1496179011 c:\users\neel\codeblocks\n_body\include\nbody.h
+	"particle.h"
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+
+1496181925 source:c:\users\neel\codeblocks\n_body\src\nbody.cpp
+	"NBody.h"
 
