@@ -2,7 +2,7 @@
 #define PARTICLE_H
 #include <cmath>
 const double GRAV_CONST = 6.6740E-11;
-const double DELTA_TIME = 1;
+const double DELTA_TIME = 10000;
 class Particle
 {
     public:
