@@ -1,16 +1,17 @@
 # depslib dependency file v1.0
-1496181081 source:c:\users\neel\codeblocks\n_body\main.cpp
+1496343742 source:c:\users\neel\codeblocks\n_body\main.cpp
 	<iostream>
 	<fstream>
 	<vector>
 	<string>
 	"particle.h"
 	"NBody.h"
+	<ctime>
 
 1496163691 c:\users\neel\codeblocks\n_body\particle.h
 	<cmath>
 
-1496186312 c:\users\neel\codeblocks\n_body\include\particle.h
+1496314131 c:\users\neel\codeblocks\n_body\include\particle.h
 	<cmath>
 
 1496164120 source:c:\users\neel\codeblocks\n_body\src\particle.cpp
@@ -21,7 +22,7 @@
 
 1496163929 c:\users\neel\codeblocks\n_body\include\z.h
 
-1496273966 c:\users\neel\codeblocks\n_body\include\nbody.h
+1496326597 c:\users\neel\codeblocks\n_body\include\nbody.h
 	"particle.h"
 	<vector>
 	<string>
@@ -29,6 +30,6 @@
 	<fstream>
 	<thread>
 
-1496276119 source:c:\users\neel\codeblocks\n_body\src\nbody.cpp
+1496343887 source:c:\users\neel\codeblocks\n_body\src\nbody.cpp
 	"NBody.h"
 
