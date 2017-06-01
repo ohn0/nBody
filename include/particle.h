@@ -5,6 +5,7 @@ const double GRAV_CONST = 6.6740E-11;
 const double DELTA_TIME = 10000;
 class Particle
 {
+    //A class for each body in the system.
     public:
         double Rx, Ry, Vx, Vy;
         double mass;

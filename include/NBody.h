@@ -5,6 +5,7 @@
 #include <string>
 #include <iostream>
 #include <fstream>
+#include <thread>
 class NBody
 {
     std::vector<Particle> bodies;

@@ -10,7 +10,7 @@
 1496163691 c:\users\neel\codeblocks\n_body\particle.h
 	<cmath>
 
-1496181754 c:\users\neel\codeblocks\n_body\include\particle.h
+1496186312 c:\users\neel\codeblocks\n_body\include\particle.h
 	<cmath>
 
 1496164120 source:c:\users\neel\codeblocks\n_body\src\particle.cpp
@@ -21,13 +21,14 @@
 
 1496163929 c:\users\neel\codeblocks\n_body\include\z.h
 
-1496179011 c:\users\neel\codeblocks\n_body\include\nbody.h
+1496273966 c:\users\neel\codeblocks\n_body\include\nbody.h
 	"particle.h"
 	<vector>
 	<string>
 	<iostream>
 	<fstream>
+	<thread>
 
-1496181925 source:c:\users\neel\codeblocks\n_body\src\nbody.cpp
+1496276119 source:c:\users\neel\codeblocks\n_body\src\nbody.cpp
 	"NBody.h"
 
